@@ -1,0 +1,16 @@
+Nome: Guilherme de Souza Cançado
+1024 B
+
+1.
+    Para evitar possíveis conflitos com outros programas e dependências pré-existentes
+    no computador, criando um ambiente isolado do restante do computador.
+
+2.
+    $ python --version
+
+3.
+    $ python -m venv .venv
+
+4.
+    Quando aparecer "(.<nome_do_projeto>)" no inicio do prompt do terminal,
+    ou PS1. 
